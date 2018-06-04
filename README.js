@@ -2,6 +2,7 @@
 
 let die = true 
 
-if { die = false 
+if { (die = false)
 console.log(lev) 
-} else { console.log(dö) }
+} else { console.log(dö) 
+  }
